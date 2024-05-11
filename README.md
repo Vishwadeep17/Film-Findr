@@ -1,6 +1,6 @@
 # Film-Findr
 
-Welcome to Film-Findr, your one-stop movie app for exploring a vast collection of movies. With PopcornPals, you can discover movie details, including the cast, director, release date, genres, and even add new movies to the database. This app is built using .NET Core MVC and is designed to provide an enjoyable movie browsing experience.
+Welcome to Film-Findr, your one-stop movie app for exploring a vast collection of movies. With Film-Findr, you can discover movie details, including the cast, director, release date, genres, and even add new movies to the database. This app is built using .NET Core MVC and is designed to provide an enjoyable movie browsing experience.
 
 ## Table of Contents
 - [Key Features](#key-features)
